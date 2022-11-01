@@ -13,5 +13,10 @@ class Product {
   ##fin atributos##
   
   ##metódos##
+  critical_stock
+  maximum_stock
+  sales #productos en oferta
+  best_selling_product #producto que se vende más
+  least_selling_product #producto que se vende menos
   
   ##fin metódos##
